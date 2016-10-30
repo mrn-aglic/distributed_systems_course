@@ -1,0 +1,5 @@
+C:\Users\mrnag\Desktop\Materijali\HelloClientBolje\HelloClientBolje\bin\Debug\HelloClientBolje.exe.config
+C:\Users\mrnag\Desktop\Materijali\HelloClientBolje\HelloClientBolje\bin\Debug\HelloClientBolje.exe
+C:\Users\mrnag\Desktop\Materijali\HelloClientBolje\HelloClientBolje\bin\Debug\HelloClientBolje.pdb
+C:\Users\mrnag\Desktop\Materijali\HelloClientBolje\HelloClientBolje\obj\Debug\HelloClientBolje.exe
+C:\Users\mrnag\Desktop\Materijali\HelloClientBolje\HelloClientBolje\obj\Debug\HelloClientBolje.pdb

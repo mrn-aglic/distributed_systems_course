@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\Materijali\HelloServerBolje\HelloServerBolje\bin\Debug\HelloServerBolje.exe.config
+C:\Users\mrnag\Desktop\Materijali\HelloServerBolje\HelloServerBolje\bin\Debug\HelloServerBolje.exe
+C:\Users\mrnag\Desktop\Materijali\HelloServerBolje\HelloServerBolje\bin\Debug\HelloServerBolje.pdb
+C:\Users\mrnag\Desktop\Materijali\HelloServerBolje\HelloServerBolje\obj\Debug\HelloServerBolje.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\HelloServerBolje\HelloServerBolje\obj\Debug\HelloServerBolje.exe
+C:\Users\mrnag\Desktop\Materijali\HelloServerBolje\HelloServerBolje\obj\Debug\HelloServerBolje.pdb

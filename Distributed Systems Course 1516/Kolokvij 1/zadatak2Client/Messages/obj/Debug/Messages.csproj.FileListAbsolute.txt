@@ -1,0 +1,11 @@
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\Messages.dll
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\Messages.pdb
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\Akka.dll
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\Akka.xml
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\obj\Debug\Messages.dll
+C:\Users\mrnag\Downloads\zadatak2\zadatak2Client\Messages\obj\Debug\Messages.pdb

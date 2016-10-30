@@ -1,0 +1,4 @@
+C:\Users\mrnag\Desktop\MessageDeliverySemantics\AtMostOnce\Client\Messages\bin\Debug\Messages.dll
+C:\Users\mrnag\Desktop\MessageDeliverySemantics\AtMostOnce\Client\Messages\bin\Debug\Messages.pdb
+C:\Users\mrnag\Desktop\MessageDeliverySemantics\AtMostOnce\Client\Messages\obj\Debug\Messages.dll
+C:\Users\mrnag\Desktop\MessageDeliverySemantics\AtMostOnce\Client\Messages\obj\Debug\Messages.pdb

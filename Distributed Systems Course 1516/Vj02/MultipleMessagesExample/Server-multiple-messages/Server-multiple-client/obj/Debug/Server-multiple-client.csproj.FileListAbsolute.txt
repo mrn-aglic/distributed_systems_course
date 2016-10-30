@@ -1,0 +1,2 @@
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\bin\Debug\Server-multiple-client.exe.config
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-messages\Server-multiple-client\bin\Debug\Server-multiple-client.exe.config

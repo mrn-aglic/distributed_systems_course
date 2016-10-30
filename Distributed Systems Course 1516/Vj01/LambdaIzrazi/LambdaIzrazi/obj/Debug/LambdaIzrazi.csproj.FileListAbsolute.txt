@@ -1,0 +1,6 @@
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\LambdaIzrazi\LambdaIzrazi\bin\Debug\LambdaIzrazi.exe.config
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\LambdaIzrazi\LambdaIzrazi\bin\Debug\LambdaIzrazi.exe
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\LambdaIzrazi\LambdaIzrazi\bin\Debug\LambdaIzrazi.pdb
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\LambdaIzrazi\LambdaIzrazi\obj\Debug\LambdaIzrazi.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\LambdaIzrazi\LambdaIzrazi\obj\Debug\LambdaIzrazi.exe
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\LambdaIzrazi\LambdaIzrazi\obj\Debug\LambdaIzrazi.pdb

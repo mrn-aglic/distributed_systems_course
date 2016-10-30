@@ -1,0 +1,10 @@
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\AkkaReadWriteConsole.exe.config
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\AkkaReadWriteConsole.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\AkkaReadWriteConsole.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\Akka.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\Akka.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\obj\Debug\AkkaReadWriteConsole.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\obj\Debug\AkkaReadWriteConsole.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaReadWriteConsole\AkkaReadWriteConsole\obj\Debug\AkkaReadWriteConsole.csprojResolveAssemblyReference.cache

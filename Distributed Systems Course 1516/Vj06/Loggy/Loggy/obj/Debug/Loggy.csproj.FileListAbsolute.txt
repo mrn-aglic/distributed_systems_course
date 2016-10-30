@@ -1,0 +1,30 @@
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Loggy.exe.config
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Loggy.exe
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Loggy.pdb
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Akka.dll
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Akka.xml
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\obj\Debug\Loggy.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\obj\Debug\Loggy.Form1.resources
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\obj\Debug\Loggy.Properties.Resources.resources
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\obj\Debug\Loggy.csproj.GenerateResource.Cache
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\obj\Debug\Loggy.exe
+C:\Users\mrnag\Desktop\Materijali\Loggy\Loggy\obj\Debug\Loggy.pdb
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Loggy.exe.config
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\obj\Debug\Loggy.exe
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\obj\Debug\Loggy.pdb
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Loggy.exe
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Loggy.pdb
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Akka.dll
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Akka.xml
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\obj\Debug\Loggy.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\obj\Debug\Loggy.Form1.resources
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\obj\Debug\Loggy.Properties.Resources.resources
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj06\Loggy\Loggy\obj\Debug\Loggy.csproj.GenerateResource.Cache

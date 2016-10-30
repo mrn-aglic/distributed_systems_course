@@ -1,0 +1,6 @@
+﻿namespace AkkaPingPong
+{
+    class Ping
+    {
+    }
+}

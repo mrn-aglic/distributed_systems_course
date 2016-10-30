@@ -1,0 +1,10 @@
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\HttpServer.exe.config
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\HttpServer.exe
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\HttpServer.pdb
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\obj\Debug\HttpServer.exe
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\obj\Debug\HttpServer.pdb
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\Files\index.html
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\Files\InternalServerError.html
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\Files\NotFound.html
+C:\Users\mrnag\Desktop\Materijali\HttpServer\HttpServer\bin\Debug\Files\debian.jpg

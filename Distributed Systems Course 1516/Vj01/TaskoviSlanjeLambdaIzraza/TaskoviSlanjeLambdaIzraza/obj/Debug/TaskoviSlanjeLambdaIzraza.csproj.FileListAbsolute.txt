@@ -1,0 +1,6 @@
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\TaskoviSlanjeLambdaIzraza\TaskoviSlanjeLambdaIzraza\bin\Debug\TaskoviSlanjeLambdaIzraza.exe.config
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\TaskoviSlanjeLambdaIzraza\TaskoviSlanjeLambdaIzraza\bin\Debug\TaskoviSlanjeLambdaIzraza.exe
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\TaskoviSlanjeLambdaIzraza\TaskoviSlanjeLambdaIzraza\bin\Debug\TaskoviSlanjeLambdaIzraza.pdb
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\TaskoviSlanjeLambdaIzraza\TaskoviSlanjeLambdaIzraza\obj\Debug\TaskoviSlanjeLambdaIzraza.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\TaskoviSlanjeLambdaIzraza\TaskoviSlanjeLambdaIzraza\obj\Debug\TaskoviSlanjeLambdaIzraza.exe
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\TaskoviSlanjeLambdaIzraza\TaskoviSlanjeLambdaIzraza\obj\Debug\TaskoviSlanjeLambdaIzraza.pdb

@@ -1,0 +1,5 @@
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\PakiranjeLambdaIzrazom\PakiranjeLambdaIzrazom\bin\Debug\PakiranjeLambdaIzrazom.exe.config
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\PakiranjeLambdaIzrazom\PakiranjeLambdaIzrazom\bin\Debug\PakiranjeLambdaIzrazom.exe
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\PakiranjeLambdaIzrazom\PakiranjeLambdaIzrazom\bin\Debug\PakiranjeLambdaIzrazom.pdb
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\PakiranjeLambdaIzrazom\PakiranjeLambdaIzrazom\obj\Debug\PakiranjeLambdaIzrazom.exe
+C:\Users\Marin\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Materijali\PakiranjeLambdaIzrazom\PakiranjeLambdaIzrazom\obj\Debug\PakiranjeLambdaIzrazom.pdb

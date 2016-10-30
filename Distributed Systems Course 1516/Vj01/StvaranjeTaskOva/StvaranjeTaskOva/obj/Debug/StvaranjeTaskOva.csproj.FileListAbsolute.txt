@@ -1,0 +1,7 @@
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj008\StvaranjeTaskOva\StvaranjeTaskOva\bin\Debug\StvaranjeTaskOva.exe.config
+C:\Users\mrnag\Desktop\RS - materijali\StvaranjeTaskOva\StvaranjeTaskOva\bin\Debug\StvaranjeTaskOva.exe.config
+C:\Users\mrnag\Desktop\RS - materijali\StvaranjeTaskOva\StvaranjeTaskOva\bin\Debug\StvaranjeTaskOva.exe
+C:\Users\mrnag\Desktop\RS - materijali\StvaranjeTaskOva\StvaranjeTaskOva\bin\Debug\StvaranjeTaskOva.pdb
+C:\Users\mrnag\Desktop\RS - materijali\StvaranjeTaskOva\StvaranjeTaskOva\obj\Debug\StvaranjeTaskOva.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\RS - materijali\StvaranjeTaskOva\StvaranjeTaskOva\obj\Debug\StvaranjeTaskOva.exe
+C:\Users\mrnag\Desktop\RS - materijali\StvaranjeTaskOva\StvaranjeTaskOva\obj\Debug\StvaranjeTaskOva.pdb

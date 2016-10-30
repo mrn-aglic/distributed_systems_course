@@ -1,0 +1,10 @@
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\RestartActor.exe.config
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\RestartActor.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\RestartActor.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\Akka.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\Akka.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\obj\Debug\RestartActor.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\obj\Debug\RestartActor.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\RestartActor\RestartActor\obj\Debug\RestartActor.pdb

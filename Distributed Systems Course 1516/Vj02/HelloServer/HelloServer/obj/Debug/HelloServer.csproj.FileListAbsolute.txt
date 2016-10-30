@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\Materijali\HelloServer\HelloServer\bin\Debug\HelloServer.exe.config
+C:\Users\mrnag\Desktop\Materijali\HelloServer\HelloServer\bin\Debug\HelloServer.exe
+C:\Users\mrnag\Desktop\Materijali\HelloServer\HelloServer\bin\Debug\HelloServer.pdb
+C:\Users\mrnag\Desktop\Materijali\HelloServer\HelloServer\obj\Debug\HelloServer.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\HelloServer\HelloServer\obj\Debug\HelloServer.exe
+C:\Users\mrnag\Desktop\Materijali\HelloServer\HelloServer\obj\Debug\HelloServer.pdb

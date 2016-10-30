@@ -1,0 +1,9 @@
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\bin\Debug\Client-multiple-msgs.exe.config
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\bin\Debug\Client-multiple-msgs.exe
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\bin\Debug\Client-multiple-msgs.pdb
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\obj\Debug\Client-multiple-msgs.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\obj\Debug\Client_multiple_msgs.Form1.resources
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\obj\Debug\Client_multiple_msgs.Properties.Resources.resources
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\obj\Debug\Client-multiple-msgs.csproj.GenerateResource.Cache
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\obj\Debug\Client-multiple-msgs.exe
+C:\Users\mrnag\Desktop\Materijali\Client-multiple-msgs\Client-multiple-msgs\obj\Debug\Client-multiple-msgs.pdb

@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\RS - materijali\PrimjerTaskMetodaSParametrima\PrimjerTaskMetodaSParametrima\bin\Debug\PrimjerTaskMetodaSParametrima.exe.config
+C:\Users\mrnag\Desktop\RS - materijali\PrimjerTaskMetodaSParametrima\PrimjerTaskMetodaSParametrima\bin\Debug\PrimjerTaskMetodaSParametrima.exe
+C:\Users\mrnag\Desktop\RS - materijali\PrimjerTaskMetodaSParametrima\PrimjerTaskMetodaSParametrima\bin\Debug\PrimjerTaskMetodaSParametrima.pdb
+C:\Users\mrnag\Desktop\RS - materijali\PrimjerTaskMetodaSParametrima\PrimjerTaskMetodaSParametrima\obj\Debug\PrimjerTaskMetodaSParametrima.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\RS - materijali\PrimjerTaskMetodaSParametrima\PrimjerTaskMetodaSParametrima\obj\Debug\PrimjerTaskMetodaSParametrima.exe
+C:\Users\mrnag\Desktop\RS - materijali\PrimjerTaskMetodaSParametrima\PrimjerTaskMetodaSParametrima\obj\Debug\PrimjerTaskMetodaSParametrima.pdb

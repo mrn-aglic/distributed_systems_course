@@ -1,0 +1,3 @@
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj08\ExactlyOnceProcessing\ExactlyOnceProcessing\bin\Debug\AtLeastOnce2.exe.config
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj08\ExactlyOnceProcessing\ExactlyOnceProcessing\obj\Debug\AtLeastOnce2.exe
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj08\ExactlyOnceProcessing\ExactlyOnceProcessing\obj\Debug\AtLeastOnce2.pdb

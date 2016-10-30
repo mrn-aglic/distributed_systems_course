@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\bin\Debug\Server-multiple-client.exe.config
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\bin\Debug\Server-multiple-client.exe
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\bin\Debug\Server-multiple-client.pdb
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\obj\Debug\Server-multiple-client.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\obj\Debug\Server-multiple-client.exe
+C:\Users\mrnag\Desktop\Materijali\Server-multiple-client\Server-multiple-client\obj\Debug\Server-multiple-client.pdb

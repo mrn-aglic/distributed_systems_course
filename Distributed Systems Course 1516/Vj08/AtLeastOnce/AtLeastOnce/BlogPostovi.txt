@@ -1,0 +1,32 @@
+﻿{
+  "id": 0,
+  "content": "Hello world"
+}
+{
+  "id": 0,
+  "content": "Hello world"
+}
+{
+  "id": 1,
+  "content": "Ovo je moj drugi post"
+}
+{
+  "id": 2,
+  "content": "Ovo je moj treci post"
+}
+{
+  "id": 3,
+  "content": "Ovo je moj cetvrti post"
+}
+{
+  "id": 4,
+  "content": "Ovo je peti post"
+}
+{
+  "id": 5,
+  "content": "Ala oce ovo vise puknit"
+}
+{
+  "id": 6,
+  "content": "Eto ga"
+}

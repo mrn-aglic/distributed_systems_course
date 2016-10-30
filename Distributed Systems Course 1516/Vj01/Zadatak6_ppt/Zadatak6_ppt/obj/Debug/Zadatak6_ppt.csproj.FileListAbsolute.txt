@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\Materijali\Zadatak6_ppt\Zadatak6_ppt\bin\Debug\Zadatak6_ppt.exe.config
+C:\Users\mrnag\Desktop\Materijali\Zadatak6_ppt\Zadatak6_ppt\bin\Debug\Zadatak6_ppt.exe
+C:\Users\mrnag\Desktop\Materijali\Zadatak6_ppt\Zadatak6_ppt\bin\Debug\Zadatak6_ppt.pdb
+C:\Users\mrnag\Desktop\Materijali\Zadatak6_ppt\Zadatak6_ppt\obj\Debug\Zadatak6_ppt.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Zadatak6_ppt\Zadatak6_ppt\obj\Debug\Zadatak6_ppt.exe
+C:\Users\mrnag\Desktop\Materijali\Zadatak6_ppt\Zadatak6_ppt\obj\Debug\Zadatak6_ppt.pdb

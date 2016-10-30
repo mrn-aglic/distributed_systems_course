@@ -1,0 +1,13 @@
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\AkkaHelloWorld.exe.config
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\AkkaHelloWorld.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\AkkaHelloWorld.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\Akka.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\Akka.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\obj\Debug\AkkaHelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\obj\Debug\AkkaHelloWorld.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaHelloWorld\AkkaHelloWorld\obj\Debug\AkkaHelloWorld.pdb
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj04\AkkaHelloWorld\AkkaHelloWorld\bin\Debug\AkkaHelloWorld.exe.config
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj04\AkkaHelloWorld\AkkaHelloWorld\obj\Debug\AkkaHelloWorld.exe
+C:\Users\mrnag\Dropbox (Personal)\Nastava\2015-2016\RS_15-16\Vj04\AkkaHelloWorld\AkkaHelloWorld\obj\Debug\AkkaHelloWorld.pdb

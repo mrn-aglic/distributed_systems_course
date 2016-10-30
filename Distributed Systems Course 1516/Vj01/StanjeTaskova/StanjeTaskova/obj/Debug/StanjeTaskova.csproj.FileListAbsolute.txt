@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\RS - materijali\StanjeTaskova\StanjeTaskova\bin\Debug\StanjeTaskova.exe.config
+C:\Users\mrnag\Desktop\RS - materijali\StanjeTaskova\StanjeTaskova\bin\Debug\StanjeTaskova.exe
+C:\Users\mrnag\Desktop\RS - materijali\StanjeTaskova\StanjeTaskova\bin\Debug\StanjeTaskova.pdb
+C:\Users\mrnag\Desktop\RS - materijali\StanjeTaskova\StanjeTaskova\obj\Debug\StanjeTaskova.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\RS - materijali\StanjeTaskova\StanjeTaskova\obj\Debug\StanjeTaskova.exe
+C:\Users\mrnag\Desktop\RS - materijali\StanjeTaskova\StanjeTaskova\obj\Debug\StanjeTaskova.pdb

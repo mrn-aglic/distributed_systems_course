@@ -1,0 +1,8 @@
+C:\Users\mrnag\Desktop\PingPongCluster\Messages\bin\Debug\Messages.dll
+C:\Users\mrnag\Desktop\PingPongCluster\Messages\bin\Debug\Messages.pdb
+C:\Users\mrnag\Desktop\PingPongCluster\Messages\obj\Debug\Messages.dll
+C:\Users\mrnag\Desktop\PingPongCluster\Messages\obj\Debug\Messages.pdb
+C:\Users\mrnag\Desktop\Frontend\Messages\bin\Debug\Messages.dll
+C:\Users\mrnag\Desktop\Frontend\Messages\bin\Debug\Messages.pdb
+C:\Users\mrnag\Desktop\Frontend\Messages\obj\Debug\Messages.dll
+C:\Users\mrnag\Desktop\Frontend\Messages\obj\Debug\Messages.pdb

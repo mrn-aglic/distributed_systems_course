@@ -1,0 +1,6 @@
+C:\Users\mrnag\Desktop\RS - materijali\PripmjeriTaskova\PripmjeriTaskova\bin\Debug\PripmjeriTaskova.exe.config
+C:\Users\mrnag\Desktop\RS - materijali\PripmjeriTaskova\PripmjeriTaskova\bin\Debug\PripmjeriTaskova.exe
+C:\Users\mrnag\Desktop\RS - materijali\PripmjeriTaskova\PripmjeriTaskova\bin\Debug\PripmjeriTaskova.pdb
+C:\Users\mrnag\Desktop\RS - materijali\PripmjeriTaskova\PripmjeriTaskova\obj\Debug\PripmjeriTaskova.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\RS - materijali\PripmjeriTaskova\PripmjeriTaskova\obj\Debug\PripmjeriTaskova.exe
+C:\Users\mrnag\Desktop\RS - materijali\PripmjeriTaskova\PripmjeriTaskova\obj\Debug\PripmjeriTaskova.pdb

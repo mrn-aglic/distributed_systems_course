@@ -1,0 +1,22 @@
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\bin\Debug\Vj05Web.exe.config
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\bin\Debug\Vj05Web.exe
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\bin\Debug\Vj05Web.pdb
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\obj\Debug\Vj05Web.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\obj\Debug\Vj05Web.Form1.resources
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\obj\Debug\Vj05Web.Properties.Resources.resources
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\obj\Debug\Vj05Web.csproj.GenerateResource.Cache
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\obj\Debug\Vj05Web.exe
+C:\Users\mrnag\Desktop\Paralelno programiranje\Vj05\Vj05Web\Vj05Web\obj\Debug\Vj05Web.pdb
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\bin\Debug\Vj05Web.exe.config
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\obj\Debug\Vj05Web.exe
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\obj\Debug\Vj05Web.pdb
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\obj\Debug\Vj05Web.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\obj\Debug\Vj05Web.Form1.resources
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\obj\Debug\Vj05Web.Properties.Resources.resources
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\obj\Debug\Vj05Web.csproj.GenerateResource.Cache
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\bin\Debug\Vj05Web.exe
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\bin\Debug\Vj05Web.pdb
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Downloads\Vj05Web\Vj05Web\Vj05Web\bin\Debug\Newtonsoft.Json.xml

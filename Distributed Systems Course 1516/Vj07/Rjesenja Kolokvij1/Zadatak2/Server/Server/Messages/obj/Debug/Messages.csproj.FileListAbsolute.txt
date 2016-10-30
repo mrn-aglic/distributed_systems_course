@@ -1,0 +1,5 @@
+C:\Users\mrnag\Desktop\Zadatak2\Server\Server\Messages\bin\Debug\Messages.dll
+C:\Users\mrnag\Desktop\Zadatak2\Server\Server\Messages\bin\Debug\Messages.pdb
+C:\Users\mrnag\Desktop\Zadatak2\Server\Server\Messages\obj\Debug\Messages.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Zadatak2\Server\Server\Messages\obj\Debug\Messages.dll
+C:\Users\mrnag\Desktop\Zadatak2\Server\Server\Messages\obj\Debug\Messages.pdb

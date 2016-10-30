@@ -1,0 +1,5 @@
+C:\Users\mrnag\Desktop\Materijali\HelloClient\HelloClient\bin\Debug\HelloClient.exe.config
+C:\Users\mrnag\Desktop\Materijali\HelloClient\HelloClient\bin\Debug\HelloClient.exe
+C:\Users\mrnag\Desktop\Materijali\HelloClient\HelloClient\bin\Debug\HelloClient.pdb
+C:\Users\mrnag\Desktop\Materijali\HelloClient\HelloClient\obj\Debug\HelloClient.exe
+C:\Users\mrnag\Desktop\Materijali\HelloClient\HelloClient\obj\Debug\HelloClient.pdb

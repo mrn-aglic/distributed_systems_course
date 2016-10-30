@@ -1,0 +1,36 @@
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe.config
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Akka.dll
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Akka.xml
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\HirschbergSinclairAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.exe
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe.config
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\obj\Debug\ChangRobertsAlgorithm.exe
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\obj\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Akka.dll
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\System.Collections.Immutable.dll
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Akka.xml
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\System.Collections.Immutable.xml
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\obj\Debug\HirschbergSinclairAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe.config
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\obj\Debug\ChangRobertsAlgorithm.exe
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\obj\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Akka.dll
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\System.Collections.Immutable.dll
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Akka.xml
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\bin\Debug\System.Collections.Immutable.xml
+C:\Users\profesor\Downloads\HirschbergSinclairAlgorithm (1)\HirschbergSinclairAlgorithm\HirschbergSinclairAlgorithm\obj\Debug\HirschbergSinclairAlgorithm.csprojResolveAssemblyReference.cache

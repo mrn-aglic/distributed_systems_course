@@ -1,0 +1,10 @@
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\AkkaPingPong.exe.config
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\AkkaPingPong.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\AkkaPingPong.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\Akka.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\Akka.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\obj\Debug\AkkaPingPong.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\obj\Debug\AkkaPingPong.exe
+C:\Users\mrnag\Desktop\Materijali\Akka\AkkaPingPong\AkkaPingPong\obj\Debug\AkkaPingPong.pdb

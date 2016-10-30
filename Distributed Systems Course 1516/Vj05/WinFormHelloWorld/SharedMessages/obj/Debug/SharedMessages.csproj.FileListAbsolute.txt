@@ -1,0 +1,8 @@
+C:\Users\mrnag\Desktop\Materijali\Akka\RemoteHelloWorld\SharedMessages\bin\Debug\SharedMessages.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\RemoteHelloWorld\SharedMessages\bin\Debug\SharedMessages.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\RemoteHelloWorld\SharedMessages\obj\Debug\SharedMessages.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\RemoteHelloWorld\SharedMessages\obj\Debug\SharedMessages.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\WinFormHelloWorld\SharedMessages\bin\Debug\SharedMessages.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\WinFormHelloWorld\SharedMessages\bin\Debug\SharedMessages.pdb
+C:\Users\mrnag\Desktop\Materijali\Akka\WinFormHelloWorld\SharedMessages\obj\Debug\SharedMessages.dll
+C:\Users\mrnag\Desktop\Materijali\Akka\WinFormHelloWorld\SharedMessages\obj\Debug\SharedMessages.pdb

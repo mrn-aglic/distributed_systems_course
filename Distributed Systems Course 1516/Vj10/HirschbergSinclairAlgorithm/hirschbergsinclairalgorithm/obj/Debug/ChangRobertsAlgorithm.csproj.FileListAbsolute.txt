@@ -1,0 +1,15 @@
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe.config
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Akka.dll
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\System.Collections.Immutable.dll
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Akka.xml
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\System.Collections.Immutable.xml
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.exe
+C:\Users\mrnag\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.pdb
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\bin\Debug\ChangRobertsAlgorithm.exe.config
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.exe
+C:\Users\Marin\Desktop\ChangRobertsAlgorithm\ChangRobertsAlgorithm\obj\Debug\ChangRobertsAlgorithm.pdb
